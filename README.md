@@ -36,8 +36,6 @@
 ![CSS3](./assets/Language/css.svg) &nbsp;
 ![javaScript](./assets/Language/javascript.svg)
 
-<br>
-
 ## Tools & Technology :
 
 ![TypeScript](./assets/Tools-Technology/typescript.svg) &nbsp;
