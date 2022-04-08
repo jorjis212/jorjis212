@@ -21,7 +21,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorjis__https://twitter.com/jorjis__)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/_jorjis)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/_jorjis/)
-
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jorjis)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:speak.jorjis@gmail.com)
 
@@ -54,9 +53,7 @@
 
 <details>
 
-<summary style="font-size:20px; font-weight:700; cursor: pointer; user-select:none;">
-Github Activity :
-</summary>
+<summary style="font-size:20px; font-weight:700; cursor: pointer; user-select:none;">Github Activity :</summary>
 
 [![Jorjis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorjis212&count_private=true&theme=vue&hide=stars&show_icons=true&include_all_commits=true&show_owner=true&custom_title=An-Overview)](https://github.com/jorjis212?tab=repositories)
 
