@@ -1,11 +1,12 @@
 [<img alt="banner" src="./assets/banner/banner-github.svg">](https://www.jorjishasan.com/)
 
-## Hi there, <img  width="26px" src="./assets/banner/waving-hi.gif" style="padding-top: 10px" />
+<h2 align="center">
+<img src="https://komarev.com/ghpvc/?username=jorjis212">
+<h2>
 
-## **I am Jorjis Hasan.**
+**<h1 align="center"> Hi there <img  width="30px" src="./assets/banner/wave.gif"/>, I am [Jorjis Hasan](https://www.jorjishasan.com/).</h1>**
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorjis__https://twitter.com/jorjis__) -->
-<!-- **jorjis212/jorjis212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## **About ME :**
 
 - 🔭 I’m currently working on `my startup`
 - 🌱 I’m currently learning `how to fix 🧑‍💻`
@@ -13,7 +14,7 @@
 - 🤔 I’m looking for a `Front-End` Job Opportunity
 - 💬 Ask me about `your dumb ideas`.
 - 📫 How to reach me: `[DM, underlying links]`
-- ⚡ Fun fact: `learned much things by screwing things up 😀`
+- ⚡ Fun fact: `You learned much by screw-up 😀`
 
 <br>
 
@@ -39,24 +40,30 @@
 
 ## Tools & Technology :
 
-![TypeScript](./assets/Tools-Technology/typescript.svg) &nbsp;
-![Sass](./assets/Tools-Technology/sass.svg) &nbsp;
-![Webpack](./assets/Tools-Technology/webpack.svg) &nbsp;
-![Netlify](./assets/Tools-Technology/netlify.svg) &nbsp;
-![Vscode](./assets/Tools-Technology/vscode.svg) &nbsp;
-![Illustrator](./assets/Tools-Technology/ai.svg) &nbsp;
-![Photoshop](./assets/Tools-Technology/photoshop.svg) &nbsp;
-![Figma](./assets/Tools-Technology/figma.svg) &nbsp;
-![Linux](./assets/Tools-Technology/linux.svg) &nbsp;
-![Git](./assets/Tools-Technology/git.svg) &nbsp;
-![Commands](./assets/Tools-Technology/terminal.svg)
+![TypeScript](./assets/Tools-Technology/typescript.svg "TypeScript") &nbsp;
+![Sass](./assets/Tools-Technology/sass.svg "SASS") &nbsp;
+![Webpack](./assets/Tools-Technology/webpack.svg "Webpack") &nbsp;
+![Netlify](./assets/Tools-Technology/netlify.svg "Netlify") &nbsp;
+![Vercel](./assets/Tools-Technology/git.svg "Vercel") &nbsp;
+![Vscode](./assets/Tools-Technology/vscode.svg "Vscode") &nbsp;
+![Illustrator](./assets/Tools-Technology/ai.svg "Adobe Illustrator") &nbsp;
+![Photoshop](./assets/Tools-Technology/photoshop.svg "Adobe Photoshop") &nbsp;
+![Figma](./assets/Tools-Technology/figma.svg "Figma") &nbsp;
+![Linux](./assets/Tools-Technology/linux.svg "Linux") &nbsp;
+![Git](./assets/Tools-Technology/git.svg "Git") &nbsp;
+![Postman](./assets/Tools-Technology/postman.svg "Postman") &nbsp;
+![Commands](./assets/Tools-Technology/terminal.svg "Unix")&nbsp;
+![Bootstrap](./assets/Tools-Technology/bootstrap.svg "Bootstrap")
 
 <br>
 
 <details>
 
-<summary style="font-size:50px; font-weight:700; cursor: pointer; user-select:none;">Github Activity :</summary>
+**<summary>🌟 Github Activity :</summary>**
+
+<br>
 
 [![Jorjis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorjis212&count_private=true&theme=vue&hide=stars&show_icons=true&include_all_commits=true&show_owner=true&custom_title=An-Overview)](https://github.com/jorjis212?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorjis212&langs_count=8&count_private=true&layout=compact&theme=vue&hide_border=true)]()
 
 </details>
