@@ -1,9 +1,10 @@
-![banner](./assets/banner/banner-github.svg)
+[<img alt="banner" src="./assets/banner/banner-github.svg">](https://www.jorjishasan.com/)
 
 ## Hi there, <img  width="26px" src="./assets/banner/waving-hi.gif" style="padding-top: 10px" />
 
 ## **I am Jorjis Hasan.**
 
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorjis__https://twitter.com/jorjis__) -->
 <!-- **jorjis212/jorjis212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on `my startup`
@@ -24,8 +25,6 @@
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/_jorjis/)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jorjis)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:speak.jorjis@gmail.com)
-
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorjis__https://twitter.com/jorjis__) -->
 
 <br>
 
@@ -56,7 +55,7 @@
 
 <details>
 
-<summary style="font-size:20px; font-weight:700; cursor: pointer; user-select:none;">Github Activity :</summary>
+<summary style="font-size:50px; font-weight:700; cursor: pointer; user-select:none;">Github Activity :</summary>
 
 [![Jorjis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorjis212&count_private=true&theme=vue&hide=stars&show_icons=true&include_all_commits=true&show_owner=true&custom_title=An-Overview)](https://github.com/jorjis212?tab=repositories)
 
