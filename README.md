@@ -1,3 +1,5 @@
+![banner](./assets/banner/banner-github.svg)
+
 ## Hi there, <img  width="26px" src="./assets/banner/waving-hi.gif" style="padding-top: 10px" />
 
 ## **I am Jorjis Hasan.**
