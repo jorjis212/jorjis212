@@ -63,7 +63,9 @@
 
 <br>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jorjis212&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)
+
 [![Jorjis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorjis212&count_private=true&theme=vue&hide=stars&show_icons=true&include_all_commits=true&show_owner=true&custom_title=An-Overview)](https://github.com/jorjis212?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorjis212&langs_count=8&count_private=true&layout=compact&theme=vue&hide_border=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorjis212&langs_count=8&count_private=true&layout=compact&theme=vue&hide_border=false)]()
 
 </details>
