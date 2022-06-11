@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=jorjis212">
 <h2>
 
-**<h1 align="center"> Hi there <img  width="30px" src="./assets/banner/wave.gif"/>, I am [Jorjis Hasan](https://www.jorjishasan.com/).</h1>**
+**<h1 align="center"> Hi there <img  width="30px" height="30px" src="./assets/banner/wave.gif"/>, I am [Jorjis Hasan](https://www.jorjishasan.com/).</h1>**
 
 ## **About ME :**
 
